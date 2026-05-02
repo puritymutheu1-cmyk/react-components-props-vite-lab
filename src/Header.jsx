@@ -1,4 +1,3 @@
-
 function Header({ name }) {
   return (
     <header>
