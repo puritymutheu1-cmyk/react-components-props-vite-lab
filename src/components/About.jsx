@@ -6,5 +6,4 @@ function About({ image, about }) {
     </aside>
   );
 }
-
 export default About;
